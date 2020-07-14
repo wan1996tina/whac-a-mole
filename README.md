@@ -1,2 +1,1 @@
-# whac-a-mole
-JS作業 - 打地鼠(戴口罩版)
+js-da-di-shu-wan1996tina
